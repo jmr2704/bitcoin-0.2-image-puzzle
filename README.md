@@ -8,7 +8,7 @@ This is the original photo:
 
 ![](images/original.png)
 
-*If this info has helped you, please consider donating to [1L7PNjAMaELdhzrp2RLojnAPVk4ksQddMZ](https://www.blockchain.com/explorer/addresses/btc/1L7PNjAMaELdhzrp2RLojnAPVk4ksQddMZ)*
+*If this info has helped you, please consider donating to [bc1qcw0yf68uxk0pj3p3fuepvsujevfy0uzwaul4vq](https://www.blockchain.com/explorer/addresses/btc/bc1qcw0yf68uxk0pj3p3fuepvsujevfy0uzwaul4vq)*
 
 ## Contributors
 
